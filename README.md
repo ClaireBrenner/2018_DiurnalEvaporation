@@ -57,4 +57,4 @@ https://github.com/laubblatt/2018_DiurnalEvaporation/issues
 
 # Model simulations
 To reproduce model simulations of OSEB and TSEB see this repository:
-https://github.com/ClaireBrenner/pyTSEB_Renner_et_al_2018
+https://github.com/ClaireBrenner/pyTSEB_Renner_et_al2018
